@@ -1,1 +1,0 @@
-WallsworthLaravelCustomerAPI_Endpoint
